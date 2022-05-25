@@ -44,3 +44,17 @@ hr{
     margin-bottom: 40px;
     background-color: #343515;
 }
+
+.list{
+    color: #343515;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-style: solid;
+    border-radius: 12px;
+    border-width: 3px;
+    border-color: #343515;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
