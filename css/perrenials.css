@@ -47,9 +47,10 @@ hr{
 
 .list{
     color: #343515;
+    font-family: 'Roboto Mono', monospace;
     text-align: center;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 25%;
+    margin-right: 25%;
     border-style: solid;
     border-radius: 12px;
     border-width: 3px;
